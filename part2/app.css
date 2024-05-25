@@ -1,0 +1,29 @@
+.tweet {
+    border: 2px solid darkblue;
+    background-color: lightblue;
+}
+
+.header {
+    background-color: whitesmoke;
+}
+
+.name {
+    font-size: large;
+}
+
+.username {
+    font-size: large;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.body {
+    background-color: whitesmoke;
+    font-size: x-large;
+}
+
+.date {
+    background-color: whitesmoke;
+    text-align: right;
+}
